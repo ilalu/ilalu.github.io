@@ -1,0 +1,12 @@
+.jumbotron {
+	background-image: url('/images/klimpt-tree-of-life-5.png');
+}
+
+.footer {
+  margin-top: 40px;
+  height: 150px;
+  clear:both;
+  padding-top:20px;
+
+  background-color: #f5f5f5;
+} 
